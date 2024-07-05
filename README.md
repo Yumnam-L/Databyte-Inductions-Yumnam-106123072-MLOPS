@@ -19,28 +19,6 @@ Breakout is a classic arcade game where the player controls a paddle to bounce a
 - **Pause/Resume**: A button to pause and resume the game.
 - **Start/Restart**: A button to start or restart the game.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/breakout-game.git
-   cd breakout-game
-   ```
-
-2. Install the dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-   ```bash
-   npm start
-   ```
-
-4. Open your browser and navigate to `http://localhost:3000`.
-
-
-
 ## Components
 
 ### `Canvas.js`
