@@ -10,7 +10,6 @@ Breakout is a classic arcade game where the player controls a paddle to bounce a
 - **Collision Detection**: Detects collisions between the ball and paddle, ball and bricks, and ball and walls. When the ball hits a brick, the brick disappears.
 - **Scoring System**: Players score points when the ball hits a brick.
 - **Lives**: Players have five lives. The game ends when all lives are depleted.
-- **Responsive Design**: The game is responsive to different screen sizes and orientations.
 - **Descending Bricks**: Bricks slowly descend over time, and the game ends if they reach the bottom of the paddle.
 - **High Score System**: Tracks the highest score achieved by the player.
 - **Power-ups**: Unique bricks provide power-ups like increased paddle size, multiple balls, slow-motion effects, and fast motion of the balls.
